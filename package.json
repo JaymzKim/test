@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "formidable": "^3.5.1",
+    "mysql2": "^3.9.3",
+    "next": "14.1.4",
+    "next-auth": "^5.0.0-beta.16",
+    "react": "^18",
+    "react-dom": "^18",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/formidable": "^3.4.5",
+    "@types/mysql": "^2.15.26",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
